@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 👋
+
+- 🏜 I am @AlejPocoroba a Mexican sociologist. 
+- 🔎 I am currently an Equity Scholar at NORC at the University of Chicago
+- 👾 My primary programming language is R Studio. 
 
 <!--
 **alejpocoroba/alejpocoroba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
