@@ -2,6 +2,8 @@
 
 - 🏜 I am @AlejPocoroba a Mexican sociologist 
 - 🔎 I am currently an Equity Scholar at NORC at the University of Chicago
+- 🌎 I have worked at research centers across Latin America
+- 🔭 My research focuses on criminal groups and the effects of institutionalized state violence
 - 👾 My primary programming language is R Studio 
 
 <!--
