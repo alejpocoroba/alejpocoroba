@@ -1,8 +1,8 @@
 ## Hello 👋
 
 - 🏜 I am @AlejPocoroba a Mexican sociologist 
-- 🔎 I am currently a Social Studies Teacher
-- 🎓 I got the 2025 Equity Scholar at NORC at the University of Chicago.
+- 🔎 I am a Research Consultant
+- 🎓 I am a 2025 Equity Scholar at NORC @ UChicago
 - 🌎 I have worked at research centers across Latin America
 - 🔭 My research focuses on criminal groups and the effects of institutionalized state violence
 - 👾 My primary programming language is R
