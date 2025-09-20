@@ -1,7 +1,7 @@
 ## Hello 👋
 
 - 🏜 I am @AlejPocoroba a Mexican sociologist 
-- 🔎 I am an Instructor @ Institute for Latino Progress
+- 🔎 I am an Program Coordinator @ Institute for Latino Progress
 - 🎓 I am a 2025 Equity Scholar at NORC @ UChicago
 - 🌎 I have worked at research centers across Latin America
 - 🔭 My research focuses on criminal groups and the effects of institutionalized state violence
