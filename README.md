@@ -3,14 +3,15 @@
 - 🏜 I am @AlejPocoroba a Mexican sociologist 
 - 🔎 I am a Program Coordinator @ Institute for Latino Progress
 - 🎓 I am a 2025 Equity Scholar at NORC @ UChicago
-- 🌎 I have worked at research centers across Latin America
-- 🔭 My research focuses on criminal groups and the effects of institutionalized state violence
 - 👾 My primary programming language is R
 
 <!--
 **alejpocoroba/alejpocoroba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🌎 I have worked at research centers across Latin America
+- 🔭 My research focuses on criminal groups and the effects of institutionalized state violence
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
