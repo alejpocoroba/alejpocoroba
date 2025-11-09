@@ -1,7 +1,7 @@
 ## Hello 👋
 
 - 🏜 I am @AlejPocoroba a Mexican sociologist 
-- 🔎 I am a Program Coordinator @ Institute for Latino Progress
+- 🔎 I am a Program Organizer @ northwestcenter
 - 🎓 I am a 2025 Equity Scholar at NORC @ UChicago
 - 👾 My primary programming language is R
 
